@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CaioRSV
+- CS Student
+- Python ftw
