@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @CaioRSV
-- CS Student
-- Python ftw
+- Programming enthusiast
+- Computer Science undergrad
